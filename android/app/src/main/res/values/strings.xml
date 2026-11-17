@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Muralha de Ferro</string>
+    <string name="title_activity_main">Muralha de Ferro</string>
+    <string name="package_name">com.muralhadeferro.game</string>
+    <string name="custom_url_scheme">com.muralhadeferro.game</string>
+    <!-- >>> TROCAR pelo "ID do app" do seu AdMob (formato ca-app-pub-XXXXXXXX~YYYYYYYY).
+         Este é o ID de TESTE oficial do Google. -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+</resources>
